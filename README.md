@@ -28,7 +28,7 @@ To get a local copy up and running, follow these simple steps.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL_HERE>
+   git clone https://github.com/ahmedmostafaa0/Quote-Generator
    ```
 2. Navigate to the project directory:
    ```bash
